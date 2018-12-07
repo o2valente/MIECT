@@ -1,0 +1,71 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {portuguese}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Resumo}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Introdu\IeC {\c c}\IeC {\~a}o}{3}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Hist\IeC {\'o}ria}{5}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}1981}{5}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}1985}{5}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}1994}{5}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}1996}{6}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}1999}{6}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}2007}{6}{section.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.7}2017}{7}{section.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Como funcionam os Computadores Qu\IeC {\^a}nticos ?}{9}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Modelos de Computadores Qu\IeC {\^a}nticos}{11}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Quantum annealing}{11}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Modelo de CQ topol\IeC {\'o}gico}{11}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}CQ adiab\IeC {\'a}tico}{12}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Modelo do Circuito Qu\IeC {\^a}ntico}{12}{section.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Implementa\IeC {\c c}\IeC {\~o}es F\IeC {\'\i }sicas de Computadores Qu\IeC {\^a}nticos}{13}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}CQ \IeC {\`a} base de supercondutores}{13}{section.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}CQ de i\IeC {\~o}es presos}{14}{section.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}CQ \IeC {\`a} base de uma rede \IeC {\'o}tica}{15}{section.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}CQ \IeC {\`a} base de diamante}{16}{section.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Seguran\IeC {\c c}a}{17}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}D-Wave}{19}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Sobre}{19}{section.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}Controv\IeC {\'e}rsia}{20}{section.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Compara\IeC {\c c}\IeC {\~a}o}{23}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.1}Consumo de energia}{23}{section.9.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.2}Velocidade de processamento}{23}{section.9.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.3}Uso pessoal}{25}{section.9.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}Conclus\IeC {\~a}o}{27}{chapter.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {11}Agradecimentos}{29}{chapter.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {12}Contribui\IeC {\c c}\IeC {\~o}es dos autores}{31}{chapter.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {13}Acr\IeC {\'o}nimos}{33}{chapter.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {14}Bibliografia}{35}{chapter.14}

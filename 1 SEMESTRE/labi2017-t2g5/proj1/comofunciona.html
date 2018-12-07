@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Computadores Quânticos</title>
+
+    
+    <!-- Barra de navegação lateral -->
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+</head>
+
+<style>
+	table, th, td {
+		border: 1px solid black;
+		border-collapse: collapse;
+		text-align: center;
+}
+
+
+</style>
+
+<body>
+
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div class="w3-sidebar w3-bar-block w3-dark-grey" style="width:15%; height:100%; top:0px">
+			<a href="index.html" class="w3-bar-item w3-button">Página inicial</a>
+			<a href="historia.html" class="w3-bar-item w3-button">História</a>
+			<a href="comofunciona.html" class="w3-bar-item w3-button">Como funcionam ?</a>
+			<a href="modelos.html" class="w3-bar-item w3-button">Modelos de CQ</a>
+			<a href="segurança.html" class="w3-bar-item w3-button">Segurança</a>	
+			<a href="dwave.html" class="w3-bar-item w3-button">D-Wave</a>	
+			<a href="comparaçao.html" class="w3-bar-item w3-button">Comparação</a>															
+			<a href="acerca.html" class="w3-bar-item w3-button">Acerca</a>
+		</div>
+
+		<div style="margin-left:20%; margin-right:15%">
+			<!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <h1>Como funcionam os Computadores Quânticos ?</h1>
+                <p> 	Um CQ pode conter 16 valores analógicos aos pares para formar 8 números
+						complexos, ou seja, poderia conter a seguinte tabela:</p>
+					<table style="width:100%">
+						<tr>
+							<th>Estado</th>
+							<th>Amplitude</th> 
+							<th>Probabilidade</th>
+						</tr>
+						<tr>
+							<td>*</td>
+							<td>(a+ib)</td> 
+							<td>(a² + b²)</td>
+						</tr>
+						<tr>
+							<td>000</td>
+							<td>0.37+i0.04</td> 
+							<td>0.14</td>
+						</tr>
+						<tr>
+							<td>001</td>
+							<td>0.11+i0.18</td> 
+							<td>0.04</td>
+						</tr>
+						<tr>
+							<td>010</td>
+							<td>0.09+i0.31</td> 
+							<td>0.10</td>
+						</tr>
+						<tr>
+							<td>011</td>
+							<td>0.30+i0.30</td> 
+							<td>0.18</td>
+						</tr>
+						<tr>
+							<td>100</td>
+							<td>0.35+i0.43</td> 
+							<td>0.31</td>
+						</tr>
+						<tr>
+							<td>101</td>
+							<td>0.40+i0.01</td> 
+							<td>0.16</td>
+						</tr>
+						<tr>
+							<td>110</td>
+							<td>0.09+i0.12</td> 
+							<td>0.02</td>
+						</tr>
+						<tr>
+							<td>111</td>
+							<td>0.15+i0.16</td> 
+							<td>0.05</td>
+						</tr>
+					</table>
+					<p>Esta tabela teria 2 n linhas se existissem n qubits. </p>
+					<p><mark style="background-color:lightgray">Curiosidade:</mark> Para um n
+					na ordem das centenas, tal seria mais linhas do que os átomos que são conhecidos
+					no universo.</p>
+					<p>Na primeira coluna é mostrado todos os estados possíveis para três bits, um
+					computador quântico pode assumir 8 estados em simultâneo.
+					Na segunda coluna é representada a amplitude para cada um dos oito estados.
+					Todos os oito números complexos são uma representação dos CQ num momento exato.</p>
+					<p>Todos os oito números complexos são uma representação dos CQ num momento exato.</p>
+					<p>Durante a computação, estes 8 números irão modificar e interagir uns com
+						os outros. Neste sentido, um computador quântico de 3 qubits tem muito mais
+						memória do que um computador clássico de 3 bits.</p>
+						<p>Na terceira coluna da tabela é calculada a probabilidade de cada linha possível. 
+						Cada uma destas probabilidades é encontrada através do cálculo do módulo
+						do quadrado do número complexo. Todas as probabilidades somadas irão resultar em 1.</p>
+						<p>Para uma máquina que esteja finalizada, a operação é realizada ativando
+						um pequeno pulso de radiação no local onde estão as moléculas, para diferentes
+						tipos de pulsos temos resultados diferentes(matrizes diferentes).</p>
+						<p>O algoritmo chave para um computador quântico consiste na escolha dos
+						pulsos a usar e na ordem em que devem ser usados, esta ordem é normalmente
+						escolhida de forma a que todas as probabilidades tendam para 0 exceto uma,
+						probabilidade esta que será aquela que corresponde à resposta correta.</p>
+						<p>Sendo assim, depois de ter todos os cálculos feitos, esta resposta é a que terá a maior probabilidade de ser escolhida e retornada.</p>
+						<p>Mas mesmo assim, há vários modelos de computadores quânticos, seram
+						então referidos alguns destes modelos no próximo capítulo.</p>
+					
+              
+            </div>
+        </div>
+		</div>
+       
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+
+</body>
+
+</html>
