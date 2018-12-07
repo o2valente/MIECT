@@ -1,0 +1,5 @@
+[0] Config.pm:354> INFO - This is Biber 2.7 (beta)
+[0] Config.pm:357> INFO - Logfile is 'relatorio-labi.blg'
+[27] biber:303> INFO - === sáb jun 16, 2018, 01:49:02
+[40] Biber.pm:360> INFO - Reading 'relatorio-labi.bcf'
+[96] Utils.pm:164> WARN - No data sources defined!
