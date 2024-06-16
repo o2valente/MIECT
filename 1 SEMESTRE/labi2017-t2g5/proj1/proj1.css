@@ -1,0 +1,165 @@
+
+.icons{
+display:inline-block;
+width: 64px; 
+height: 64px; 
+}
+
+ a.icons:hover {
+ background: #C93;
+ }
+ #carouselExampleIndicators{
+	width: 50%;
+	height: 300px;
+	margin-left:30%;
+ }
+ #jumbontron{
+	margin-left: 15%;
+	background-color: lightgrey;
+ }
+ 
+ 
+body {
+ font-family: Arial;
+ margin: 0;
+}
+
+* {
+ box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: relative;
+}
+
+/* Hide the images by default */
+.mySlides {
+ display: none;
+ }
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer
+  }
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+ position: absolute;
+ top: 40%;
+ width: auto;
+ padding: 16px;
+ margin-top: -50px;
+color: white;
+ font-weight: bold;
+ font-size: 20px;
+ border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+	/* Number text (1/3 etc) */
+	.numbertext {
+	 color: #f2f2f2;
+	  font-size: 12px;
+	  padding: 8px 12px;
+	 position: absolute;
+  top: 0;
+	}
+
+/* Container for image text */
+.caption-container {
+ text-align: center;
+ background-color: #222;
+ padding: 2px 16px;
+ color: white;
+	}
+
+.row:after {
+	content: "";
+display: table;
+ clear: both;
+}
+
+/* Six columns side by side */
+.column {
+float: left;
+ width: 16.66%;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+ opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+opacity: 1;
+}
+
+
+
+
+.timeline .timeline-item .timeline-content.right {
+  float: right;
+  text-align: left;
+}
+
+@media screen and (max-width: 39.9375em) {
+  .timeline {
+    margin: 30px;
+    padding: 0;
+    width: 90%;
+  }
+  .timeline::before {
+    left: 0;
+  }
+  .timeline .timeline-item .timeline-content {
+    float: right;
+    text-align: left;
+    width: 90%;
+  }
+  .timeline .timeline-item .timeline-content::before, .timeline .timeline-item .timeline-content.right::before {
+    border-left: 0;
+    border-right: 7px solid #fefefe;
+    left: 10%;
+    margin-left: -6px;
+  }
+  .timeline .timeline-item .timeline-icon {
+    left: 0;
+  }
+}
+
+.imgContainer{
+    float:left;
+}
+
+.imgContainer1{
+	float:right; 
+}
+
+.imgContainer3{
+	float:left; 
+}
+
+
+
+
+					

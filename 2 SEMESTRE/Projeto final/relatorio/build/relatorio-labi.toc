@@ -1,0 +1,47 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {portuguese}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{3}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Desenvolvimento}{4}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Interface Web}{4}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Aplica\IeC {\c c}\IeC {\~a}o Web}{5}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}list}{5}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Samples}{5}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Songs}{5}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Aceder}{5}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}get}{5}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{5}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Aceder}{5}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}sheet}{5}{subsection.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{5}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.4}vote}{5}{subsection.2.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Persist\IeC {\^e}ncia}{6}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Gerador de M\IeC {\'u}sicas}{7}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Resultados}{8}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Demonstra\IeC {\c c}\IeC {\~a}o do funcionamento dos Votos}{8}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Demonstra\IeC {\c c}\IeC {\~a}o do funcionamento da p\IeC {\'a}gina Excertos}{9}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Demonstra\IeC {\c c}\IeC {\~a}o do funcionamento da Base de Dados}{10}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Conclus\IeC {\~o}es Finais}{11}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Contribui\IeC {\c c}\IeC {\~o}es dos autores}{12}{chapter.5}
